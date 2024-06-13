@@ -1,0 +1,38 @@
+.container {
+  max-width: 100%;
+  font-size: 12px;
+}
+
+.pre {
+  border-bottom: 1px solid #ddd;
+  margin: 10px 0;
+  word-wrap: break-word;
+  padding: 0;
+  word-break: break-all;
+  white-space: break-spaces;
+}
+
+.string {
+  color: green;
+}
+
+.number {
+  color: darkorange;
+}
+
+.boolean {
+  color: blue;
+}
+
+.null {
+  color: magenta;
+}
+
+.key {
+  color: red;
+}
+
+.title {
+  font-size: 14px;
+  line-height: 16px;
+}
