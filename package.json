@@ -1,5 +1,5 @@
 {
-  "name": "JSONDebugOutput",
+  "name": "json-debug-output",
   "version": "1.0.0",
   "description": "A JSX component for displaying JSON with syntax highlighting",
   "main": "dist/index.js",
